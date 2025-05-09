@@ -1,0 +1,40 @@
+\babel@toc {polish}{}\relax 
+\contentsline {chapter}{\numberline {1}Wprowadzenie}{7}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Cele ćwiczenia}{7}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Jakiś tytuł}{7}{subsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1.1}Jakiś tytuł w subsubsection}{7}{subsubsection.1.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Jakiś tytuł 2}{7}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Zawartość pracy}{7}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Pierwszy dokument}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Struktura dokumentu}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Kompilacja}{8}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Narzędzia}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Przygotowanie dokumentu}{10}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Sprawdzanie pisowni w VSC}{10}{section.2.5}%
+\contentsline {chapter}{\numberline {3}Przykłady używania podstawowych elementów w~\LaTeX }{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Punktory i listy wyliczeniowe}{12}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Liczba}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Rysunki, tabele, schematy, wykresy}{12}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Rysunki}{13}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Tabele}{14}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Wzory matematyczne}{15}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Code Listing}{15}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Style i kolory kodu}{16}{subsection.3.5.1}%
+\contentsline {section}{\numberline {3.6}Cytowania literatury}{19}{section.3.6}%
+\contentsline {chapter}{\numberline {4}Struktura sprawozdania z ćwiczeń laboratoryjnych - Biometryczne systemy zabezpieczeń}{20}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Instrukcja przygotowania sprawozdania}{20}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Przykład sprawozdania}{22}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Cel ćwiczenia}{22}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Wstęp teoretyczny}{22}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Opis wykorzystywanego oprogramowania i narzędzi}{22}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Przebieg eksperymentu}{23}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Wczytanie obrazu i analiza histogramu}{23}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Wyrównanie histogramu}{23}{subsection.5.4.2}%
+\contentsline {section}{\numberline {5.5}Wyniki i analiza}{24}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Wnioski}{24}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Bibliografia}{24}{section.5.7}%
+\contentsline {section}{\textbf {Bibliografia}}{25}{section.5.7}%
+\contentsline {section}{\textbf {Spis rysunków}}{26}{chapter*.8}%
+\contentsline {section}{\textbf {Spis tabel}}{27}{chapter*.8}%
+\contentsline {section}{\textbf {Spis listingów}}{28}{chapter*.8}%
+\contentsline {section}{\textbf {Oświadczenie studenta o samodzielności pracy}}{29}{chapter*.10}%
